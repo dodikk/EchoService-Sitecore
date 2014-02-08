@@ -26,7 +26,8 @@ In order to add your Web API to Sitecore you should
 A typical web API module is implemented using the .NET MVC mapping mechanism. The ```initialize``` pipeline should be used in order to enable this mapping.
 
 ```
-You can find out more by reading chapter "3.2.1  Initialize" of the "Sitecore Pipelines" reference document.
+You can find out more by reading chapter "3.2.1  Initialize" 
+of the "Sitecore Pipelines" reference document.
 ```
 <http://sdn.sitecore.net/Reference/Sitecore%206/Sitecore%20Pipelines.aspx>
 
